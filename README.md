@@ -57,7 +57,7 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c816424&from=wnel-xw">◆自由亚洲◆听见亚洲真实的声音</a><br/>
   </tr>
   <tr>
-  <tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
+<tr><td align=center>▼▼▼更多精彩，请看下面▼▼▼<br/>
   </tr>
   <tr>
     <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/ogate6.jpg" /></td>
