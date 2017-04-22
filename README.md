@@ -4,19 +4,19 @@
   </tr>
   <tr>
 <td align=center><img src="https://raw.githubusercontent.com/wnel2017/ku/master/%E5%BE%AE%E4%BF%A1%E8%AF%B4%E6%98%8E4.jpg"/></td>
-    </tr>
+  </tr>
   <tr>
   <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F110%2F&from=wnel-xw">◆法轮大法明慧网</a> 
-    </tr>
+  </tr>
   <tr>
 <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c803879&from=wnel-xw">◆动  态  网（适合手机界面）</a> 
-    </tr>
+  </tr>
   <tr>
 <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F220%2F&from=wnel-xw">◆动  态  网 （适合电脑界面）</a><br/>
-    </tr>
+  </tr>
   <tr>
 <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel-xw">◆网门头条◆汇聚全球最焦点资讯</a><br/>
