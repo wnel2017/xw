@@ -10,20 +10,12 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F110%2F&from=wnel-xw">◆法轮大法明慧网</a> 
     </tr>
   <tr>
- <td align=center>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2Fwww.dalianmeng.org%2F&from=wnel-xw">◆全球公审江泽民</a> 
-    </tr>
-  <tr>
 <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?c803879&from=wnel-xw">◆动  态  网（适合手机界面）</a> 
     </tr>
   <tr>
 <td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F220%2F&from=wnel-xw">◆动  态  网 （适合电脑界面）</a><br/>
-    </tr>
-  <tr>
-<td align=center>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F210%2F&from=wnel-xw">◆追查迫害法轮功国际组织</a><br/> 
     </tr>
   <tr>
 <td align=center>
