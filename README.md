@@ -22,12 +22,11 @@
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogPipe.aspx?name=http%3A%2F%2F220%2F&from=wnel-xw">◆动  态  网 （适合电脑界面）</a><br/>
     </tr>
   <tr>
-    <td align=center>
+<td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F210%2F&from=wnel-xw">◆追查迫害法轮功国际组织</a> 
     </tr>
   <tr>
-
-        <td align=center>
+<td align=center>
 <a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?ogNews&from=wnel-xw">◆网门头条◆汇聚全球最焦点资讯</a><br/>
    </tr>
   <tr>
