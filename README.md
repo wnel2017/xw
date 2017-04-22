@@ -7,7 +7,7 @@
   </tr>
   <tr>
   <td align=center>
-<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F110%2F&from=wnel-xw">◆法轮大法明慧网</a> 
+<a href="https://s3.ap-south-1.amazonaws.com/ogatem/oGate.htm?http%3A%2F%2F110%2F&from=wnel-xw">◆◆法轮大法明慧网◆◆</a> 
   </tr>
   <tr>
 <td align=center>
