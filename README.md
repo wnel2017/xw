@@ -68,7 +68,7 @@
    </tr>
   <tr>
       <td align=center>
-<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816479&from=wnel-xw">◆美国之音◆世界最大的对外广播</a><br/>
+<a href="https://s3.eu-central-1.amazonaws.com/ogatef/oGate.htm?c816479&from=wnel-xw">◆美国之音◆世界最大对外电视台 </a><br/>
    </tr>
   <tr>
     <td align=center>
